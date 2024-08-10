@@ -4,9 +4,7 @@
 
 ![](https://cdn.sparkfun.com/assets/d/d/5/c/4/5114013ece395f527e000000.jpg)
 
-# Instrucciones: Contestar las siguientes preguntas y enviar el archivo en PDF en TEAMS, donde
-vendrá una carpeta llamada INSTITUCIONAL, fecha límite jueves 8 de agosto antes de las
-23:59.
+# Instrucciones: Contestar las siguientes preguntas y enviar el archivo en PDF en TEAMS, donde vendrá una carpeta llamada INSTITUCIONAL, fecha límite jueves 8 de agosto antes de las 23:59.
 # Sección 1
 - ¿Cuántos puertos tiene el microcontrolador ATMEGA328P?
   
