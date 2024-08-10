@@ -1,4 +1,4 @@
-# Descripción
+ # Descripción
 - El ADC tiene una resolución de 10 bits.
 - Es de aproximaciones sucesivas.
 
